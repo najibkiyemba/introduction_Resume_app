@@ -1,0 +1,22 @@
+
+.slide-container {
+    background-color: rgba(169, 169, 169, 0.366);
+    border: 1rem solid rgba(169, 169, 169, 0.56);
+    border-radius: 4px;
+}
+
+.each-slide-effect {
+    align-items: center;
+    justify-content: center;
+    display: block;
+    border: 2px solid rgba(0, 0, 0, 0.100);
+    background-color: rgba(0, 0, 0, 0.432);
+}
+
+
+
+
+
+
+
+

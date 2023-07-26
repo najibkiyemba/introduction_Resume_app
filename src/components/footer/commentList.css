@@ -1,0 +1,44 @@
+.profileLabel {
+    margin-left: 0.3rem;
+}
+
+.profileDiv {
+    background-color: rgba(169, 169, 169, 0.701);
+}
+
+.saveButton{
+    background-color: darkgray;
+    color: black;
+    float: right;
+    font-size: 0.8rem;
+    padding: 0.1rem;
+    margin-top: 0.4rem;
+    margin-right: 0.2rem;
+    cursor: pointer;
+    border-radius: 3px;
+}
+
+.saveButton:hover {
+    background-color: rgba(245, 245, 245, 0.844);
+    color: red;
+    font-size: 0.9rem;
+}
+
+.profileSection {
+    background-color: rgba(211, 211, 211, 0.281);
+}
+
+.profileSection b {
+    background-color: rgba(12, 9, 9, 0.996);
+    color: rgba(255, 255, 255, 0.874);
+    padding: 3px;
+    font-style: normal;
+    border: 0px black solid;
+    border-radius: 2px;
+}
+
+.profileSection p {
+    margin: 7px 0px;
+    font-size: 1rem;
+    font-style: normal;
+}

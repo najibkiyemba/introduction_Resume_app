@@ -1,0 +1,91 @@
+
+#skillTools, #skillTools td, #skillTools th {
+    border-style: none;
+    text-align: left;
+    overflow: hidden;
+}
+
+#tableBigDiv {
+    background-color: rgba(169, 169, 169, 0.726);
+    border: 2px solid darkgray;
+    border-radius: 4px;
+}
+
+
+#skillTools {
+    width: 100%;
+}
+
+#skillTools .tablehead {
+    background-color: rgba(169, 169, 169, 0.765);
+}
+
+@media (min-width:100px) {
+    #skillTools .tablehead{
+        font-size: 0px;
+    }
+
+    #skillTools .tableData {
+        font-size: 0.3px;
+        word-break: break-all;
+    }
+
+}
+
+@media (min-width:200px) {/*small 1*/
+    #skillTools .tablehead{
+        font-size: 3px;
+        font-weight: bolder;
+    }
+
+    #skillTools .tableData {
+        font-size: 3px;
+        word-break: break-all;
+    }
+}
+
+
+@media (min-width:320px) {/*small 2*/
+    #skillTools .tablehead{
+        font-size: 6px;
+    }
+
+    #skillTools .tableData {
+        font-size: 5px;
+    }
+}
+
+@media (min-width: 480px){/*small 3*/
+    #skillTools .tablehead {
+        font-size: 10px;
+    }
+
+    #skillTools .tableData {
+        font-size: 6px;
+    }
+}
+
+@media (min-width: 600px){/*small 4*/ 
+    #skillTools .tablehead {
+        font-size: 13px;
+    }
+
+    #skillTools .tableData {
+        font-size: 9px;
+    }
+}
+
+.tableData {
+    justify-content: center;
+    overflow: hidden;
+    padding: 5px;
+    color: black;
+    background-color: rgba(14, 14, 11, 0.348);
+    
+}  
+
+.resume-skills {
+    text-align: center;
+    background-image: url('../../assets/lastMage.jpg');
+    padding: 0.5rem 2rem;
+}
