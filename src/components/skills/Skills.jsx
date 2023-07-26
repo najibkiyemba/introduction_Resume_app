@@ -26,7 +26,7 @@ const mySkills = [
     {front: 'ES6'}
 ]
 
-const headerTable = ['Front-End', 'Back-End Pending', 'AWS Pending', 'Tools','Languages', 'Skills'];
+const headerTable = ['Front-End', 'Back-End Pending..', 'AWS Pending..', 'Tools','Languages', 'Skills'];
 
 function handleSkills() {
         
