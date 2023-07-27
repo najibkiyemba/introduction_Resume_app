@@ -29,12 +29,13 @@
 }
 
 .profileSection b {
-    background-color: rgba(12, 9, 9, 0.996);
-    color: rgba(255, 255, 255, 0.874);
+    background-color: rgba(211, 211, 211, 0.199);
+    color: black;
     padding: 3px;
     font-style: normal;
     border: 0px black solid;
     border-radius: 2px;
+    font-weight: 800;
 }
 
 .profileSection p {

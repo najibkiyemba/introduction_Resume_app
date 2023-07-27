@@ -10,36 +10,24 @@ const workExperience = [
     {
         head: 'WEB DEVELOPER',
         paragraph: 'Projects. Feb 2022 - Present',
-        experience: 'Full time frontend developer using React. Working with internal and external API to fetch data. Improved UI through testing and debugging before deployment.Working with forms to control user inputs through form validation. Developing and maintaining front and backend of React Apps. Contributing to web applications through Git. Deploying completed projects on GitHub.'
+        experience: 'Working night and day on personal frontend projects using Javascript and React. Through this concept, I improved and developed a strong understanding of React and Javascript syntax of promises, asynchronous programming, and more. I have worked on different projects and measure their performace using React Hooks such as useMemo.'
 
     },
     {
         head: 'PHONE & COMPUTER TECHNICIAN',
         paragraph: 'Makulu Tech(MK). Aug 2018',
-        experience: 'Repair phones and computers with hardware and software damages. Such as charging faults and network locks. Working as a team to diagonse damages, and repair phones and computers. Increased production by using Google.com to learn how to repair certain damages in both hardware and software. Developing customer satisfaction and trust through communication and less wait time. Lead a group of about 5-10 technicians in the repairing process. Developing popularity by working together as a team with one goal. Increased sales by 20% through using advanced LCD Screen Separate Machines and recommendation to clients.'
+        experience: `I didn't go to school to learn how to repair phones and computers in both hardware and software. I was naturally gifted by God with all skills required to repair IT devices with different problems such as water damage, installing latest software on computers and phones, network problems, and replacing charging systems. Before coding my role was to fix damaged phones, computers, and other devices recieved from customers. Through communication and strong attention to details, I satisfied clients needs, and I was ranked among the best employees.`
     
     },
     {
         head: 'GENERAL CONTRACTOR',
         paragraph: 'Jommai Property Consultant. Jun 2016',
-        experience: 'Working with a team of engineers to design and build long-lasting architectures. Using starndard building materials and tools for building durable houses. Mixing concrete and gravel by operating toro machinery mixer for faster development. Using tap measure and other instruments for accurate messurements. Attending 30min - 1hr morning meetings with a group of engineers to talk about planning for a day and divide work into individual tasks. Recording and reporting all possible mistakes to engineers, that can cause future terrible damages to buildings. Cleaning and dispossing away all hazard materials before leaving the working site.'
-        
-
-    },
-    {
-        head: 'BAKER',
-        paragraph: 'Ever Brown Bakery. Dec 2014',
-        experience: 'Dressing clean and appropriate before joining the baking department. Making sure to use the right measurements when mixing ingredients for all products. Such as, cakes and breads. Packing products in there right assigned containers after deep cleaning and drying them in hot water. Setting oven alarms on when baking to prevent damaging products. Using the right equipments when unpacking hot products from oven to avoid risks and serious damages. Consistantly reminding other bakers to mantain the pressure of heat when ovens are operating. Not go beyond the maximum heat. Washing and drying all used intruments before the shift ends.'
+        experience: `Before the technician role, I worked as general contractor on low level. During this position, I was expected to perform basic construction on site. Such as, mixing gravels, sand, cement, record keeping, and helping engineers with measuments at start and end of the shift.`
     },
     {
         head: 'WAREHOUSE ASSOCIATE',
         paragraph: 'Amazon.com, Inc. 2020',
-        experience: 'Joining 25min-40mins warm-up meetings for physical body streching, exercising, and get individual tasks from shift manager or assistant. Sorting and packing packages in there assigned container bags using scanning devices, flashing lights, and alphabetical letters on bags. Attending mandatory 15min - 30min break with my other co-workers per shift. Usually at the end of the shift we looks for container bags, put them on carts, and stage them in there assigned location number. Quickly report all damaged and linking packages to shift assistants or managers without touching them. Unpacking carts from trucks and loading them on the conveyor belts with the help of a water spider(assigned task). Clocking in and out before and after the shift starts and not later than 5 minutes.'
-    },
-    {
-        head: 'FARMING',
-        paragraph: 'Family Business. Feb 2022',
-        experience: "Growing plants and raising livestock on the farm. Mulching the garden with dry grass to stop running water from unplanting under grown plants. Educating other farmers on the village the advantages of planting more trees and the disadvantages of cutting downdown trees. Using scarecrow techniques in gardens to scare and stop wild animals such as squirrels, monkeys, and ground hogs from eating and damaging farmer's crops. Watering crops and adding farm yard manure in gardens to speed-up the growth of plants. Harvesting and planting crops in the right season. Transporting and advertising harvested crops to several markets on the village for sale."
+        experience: `At the start of the shift, all associates were required to perform physical and body streching for about 10 - 20 minutes during stand up meetings. These shifts were for 10 hours and invloved of walking almost every where in the warehouse, standing up and down for long hours, stawing packages to their assigned containers, and loading items to the coveyor belt. It was a physical position that required strength and hard working to be considered productive by managers.`
     },
 ]
 

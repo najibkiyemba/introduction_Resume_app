@@ -3,8 +3,8 @@ import "./education.css";
 import {FaUserGraduate} from "react-icons/fa";
 
 const education = {
-    highSchool: 'Archived Safety & Health Fundamentals Certificate Through OSHA Online Education Training. Passed all science classes with A+. Lead a team of about 7 - 10 colleagues to solve math(algebra) problems.',
-    college : 'Completed and passed web development classes using HTML and CSS. Wrote about 3-5 eassays using more than 2000 words in each eassay. Wrote a paper about Internet of Things(IOT).'
+    highSchool: `During my time of high school, I was teaching myself how to code in python and other programming languages through Cousera learning platform. I was on and off in coding due to the pressure I had from school courses and excitement to graduate as soon as possible to join college and pursue a degree in Software development. Thankfully, I graduated high school with flying colors and archived Safety & Health Fundamental certification through OSHA.`,
+    college: `Upon graduating high school, I attended Ivy Tech community college in South Bend Indiana to pursue a degree in Software development. This was for only one semester after discovering several alternative ways of landing a career in software development. I completed web development courses, wrote 3+ essays, and my overall experience at college was great.`
 };
 
 const Education = () => {

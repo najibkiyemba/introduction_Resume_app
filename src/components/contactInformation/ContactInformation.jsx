@@ -51,7 +51,7 @@ const ContactInformation = () => {
 
     return (
        <div className="contactInfo">
-            <h2 className='title-header'>MERN STACK, CLOUD COMPUTING, AND IT SPECIALIST <br/> ENGINEER</h2>
+            <h2 className='title-header'>MERN STACK ENGINEER AND IT SPECIALIST</h2>
             <div className="nav-bar">
                 <ul className="info-ul">
                     {

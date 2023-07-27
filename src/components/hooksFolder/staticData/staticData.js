@@ -2,21 +2,21 @@ import expirationId from "../utilityLogic/utilityLogic"
 
 export const staticData = [
     {
-        name: "Ravneet",
+        name: "Ravneet. K",
         gender: "female",
-        date: "2023-03-10",
-        message: "I have known Najib for a long time.",
-        professional: "pending..",
+        date: "2022-03-10",
+        message: "I have known Najib for 2+ years now. He's a hard working guy and self motivated about IT.",
+        professional: "Certified Nurse.",
         edit: false,
         id: expirationId(),
         onDelete: false
     },
     {
-        name: "Tom",
+        name: "Lazaro. A",
         gender: "male",
-        date: "2022-01-15",
-        message: "Coding is so much fun for Najib.",
-        professional: "Pending..",
+        date: "2023-03-15",
+        message: "I enjoyed my time with Najib; he cares about his work more. His projects will always meet clients and employer's expectations.",
+        professional: "Instructor",
         edit: false,
         id: expirationId(),
         onDelete: false
@@ -24,11 +24,11 @@ export const staticData = [
 
     },
     {
-        name: "Flex",
+        name: "Flex. P",
         gender: 'male',
-        date: '2021-01-15',
-        message: "He's so motivated and a hard working guy I have ever seen in this world.",
-        professional: "pending...",
+        date: '2023-04-15',
+        message: "Najib is hard working and motivated as well. He enjoys coding and to make things work no matter what. :)",
+        professional: "Software Engineer",
         edit: false,
         id: expirationId(),
         onDelete: false

@@ -8,11 +8,12 @@ export default function CommentList({allData, changeOnEdit, handleDelete}) {
     //testinng Errors
     
     function handleDeleteError(delet) {
-        if(!delet.onDelete) {
+        handleDelete(delet.id)
+        /*if(!delet.onDelete) {
             throw new Error("You can't delete comment")
         }else {
             handleDelete(delet.id)
-        }
+        }*/
     }
     return (
         <>
@@ -99,16 +100,16 @@ function DataProfile({singObjec, changeOnEdit}) {
             <>
                 <div className="profileSection">
                     <p>
-                        <b>Name</b> {singObjec.name}
+                        <b>Name:</b> {singObjec.name}
                     </p>
                     <p>
-                        <b>Professional</b> {singObjec.professional} 
+                        <b>Professional:</b> {singObjec.professional} 
                     </p>
                     <p>
-                        <b>Post Date</b> {singObjec.date}
+                        <b>Post Date:</b> {singObjec.date}
                     </p>
                     <p>
-                        <b>Message</b> {singObjec.message}
+                        <b>Message:</b> {singObjec.message}
                     </p>
                 </div>
             </>
