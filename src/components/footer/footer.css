@@ -70,6 +70,7 @@ form  {
     border: 2px solid rgba(169, 169, 169, 0.212);
     border-radius: 5px;
     background-color: rgba(169, 169, 169, 0.506);
+    margin-bottom: 1.4rem;
 }
 
 .tableSchedule {

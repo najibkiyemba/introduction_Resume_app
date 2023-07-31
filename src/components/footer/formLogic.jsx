@@ -132,7 +132,7 @@ export const FormLogic = () => {
                 action="" 
                 onSubmit={(e) => handleProfileSubmit(e)}>
                         <div className="group-one">
-                            <h2 className='educationHead' >Form</h2>
+                            <h2 className='educationHead' >LEAVE A COMMENT AND READ OTHERS COMMENTS</h2>
                         </div>
                         <div id='commentDiv'>
                             <label name='name'>Name<br/>
